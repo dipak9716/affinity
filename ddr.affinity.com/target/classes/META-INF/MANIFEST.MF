@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ddr.affinity.com
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yadav
+Implementation-Vendor-Id: ddr.affinity.com
+Build-Jdk: 1.8.0_45-internal
+Implementation-URL: http://projects.spring.io/spring-boot/ddr.affinity
+ .com/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
